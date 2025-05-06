@@ -89,7 +89,7 @@ Map is implemented using MapMyIndia API.
 ### User Profile Section :
 In this section user can see how many and which properties does user bought, sold, taken on rent and rented.
 
-![Screenshot (500)](https://user-images.githubusercontent.com/69530002/163053832-0829ba99-730c-47d0-b7ff-a3fda1a99d1f.png)
+![Screenshot (500)](https://user-imagesss.githubusercontent.com/69530002/163053832-0829ba99-730c-47d0-b7ff-a3fda1a99d1f.png)
 
 ![Screenshot (501)](https://user-images.githubusercontent.com/69530002/163053853-fe5910b8-839a-4ac5-aeef-c3e475d76c94.png)
 
@@ -120,5 +120,5 @@ npm run dev
 
 
 ## Contributors
-- <a href="https://github.com/Sanketk">Sanket Khaire</a>
+- <a href="https://github.com/Shreyas-wani">Shreyas Wani</a>
 - <a href="https://github.com/kiranwarkad1">Kiran Warkad</a>
