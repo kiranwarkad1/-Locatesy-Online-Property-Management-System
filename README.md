@@ -119,6 +119,3 @@ npm run dev
 ```
 
 
-## Contributors
-- <a href="https://github.com/Shreyas-wani">Shreyas Wani</a>
-- <a href="https://github.com/kiranwarkad1">Kiran Warkad</a>
