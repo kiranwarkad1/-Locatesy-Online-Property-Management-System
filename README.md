@@ -120,5 +120,5 @@ npm run dev
 
 
 ## Contributors
-- <a href="https://github.com/Sanketkhaire">Sanket Khaire</a>
-- <a href="https://github.com/suraj2439">Suraj Yerkal</a>
+- <a href="https://github.com/Sanketk">Sanket Khaire</a>
+- <a href="https://github.com/kiranwarkad1">Kiran Warkad</a>
